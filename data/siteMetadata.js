@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Roy on Crypto',
   author: 'Roy Osherove',
   headerTitle: 'Roy on Crypto',
-  description: "Roy's Journey into Crypto, Web3, Sofware Development, and everything in between",
+  description: "Roy's Journey into Crypto, Web3, Sofware Development, and Everything in Between",
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
