@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "Roy's Journey into Crypto, Web3, Sofware Development, and Everything in Between",
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://blog.osherove.com',
   siteRepo: 'https://github.com/royosherove/blog',
   siteLogo: '/static/images/osherove.jpg',
   image: '/static/images/osherove.jpg',
