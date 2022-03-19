@@ -46,7 +46,7 @@ const Giscus = ({ mapping }: Props) => {
   // Reload on theme change
   useEffect(() => {
     const iframe = document.querySelector('iframe.giscus-frame')
-    if (!iframe) return
+    if (iframe === undefined) return
     LoadComments()
   }, [LoadComments])
 
