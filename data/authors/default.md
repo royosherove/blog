@@ -1,11 +1,11 @@
 ---
 name: Roy Osherove
-avatar: /static/images/avatar.png
+avatar: /static/images/osherove.jpg
 occupation: Software Engineer and consultant
 company: Self Employed
 email: Roy at osherove dot com
 twitter: https://twitter.com/royosherove
-linkedin: https://www.linkedin.com
+linkedin: https://il.linkedin.com/in/osherove
 github: https://github.com/royosherove
 ---
 
